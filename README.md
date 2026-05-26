@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for **Stacklet** — a fictional no-code internal tools builder for operations teams.
 
-**Live Demo:** [View on Vercel](https://sprint-day1.vercel.app) _(замени на свою ссылку)_
+**Live Demo:** [https://sprint-day1.vercel.app](https://sprint-day1.vercel.app)
 
 ---
 
